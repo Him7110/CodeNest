@@ -79,7 +79,6 @@ const Project = () => {
 
     }
 
-    // client se server to message jayega
     const send = () => {
 
         sendMessage('project-message', {
